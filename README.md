@@ -41,7 +41,6 @@ event-locator/
 - **CSS3**: Custom styling with a beautiful color theme.
 - **JavaScript**: Dynamic content generation and interactivity.
 - **Bootstrap 5**: Responsive design and pre-built components (included via CDN).
-- **Unsplash**: Sample event images (replace with your own in production).
 
 ---
 
