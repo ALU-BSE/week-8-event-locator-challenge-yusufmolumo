@@ -1,0 +1,39 @@
+body {
+    background-color: #F4F1DE;
+    color: #264653;
+    font-family: 'Arial', sans-serif;
+}
+
+.bg-primary {
+    background-color: #2A9D8F !important;
+}
+
+.btn-secondary {
+    background-color: #E76F51;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #F1C453;
+    color: #264653;
+}
+
+.search-section {
+    background-color: #fff;
+    border: 2px solid #2A9D8F;
+}
+
+.event-card {
+    transition: transform 0.3s;
+}
+
+.event-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
