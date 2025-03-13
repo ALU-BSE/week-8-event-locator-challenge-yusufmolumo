@@ -1,7 +1,5 @@
 # Event Locator
 
-![Event Locator Banner](https://via.placeholder.com/1200x400.png?text=Event+Locator+-+Find+Your+Next+Adventure)
-
 **Event Locator** is a beautifully designed, responsive web application that allows users to search for events happening in their city. With a sleek user interface, rich content, and an amazing user experience, users can filter events by date and category, view a list of events, and explore detailed information about each event. Built with HTML, CSS, JavaScript, and Bootstrap, this app is perfect for event enthusiasts looking for their next adventure.
 
 ---
